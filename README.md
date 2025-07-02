@@ -1,6 +1,8 @@
 # **Kasper - Creative Digital Agency Website** 🚀  
 
-![Kasper Agency Preview](https://i.imgur.com/JqYeZ0l.png) 
+
+ ![WhatsApp Image 2025-07-02 at 23 25 17_86299fe6](https://github.com/user-attachments/assets/6e9f6ace-cbd0-42d8-ba87-a047cdf98153)
+
 
 A **modern, responsive** digital agency website built with HTML, CSS, and JavaScript.  
 
